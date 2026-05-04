@@ -1,5 +1,5 @@
 <div>
-<img src="./assets/HeadIcon.png" width="300" align="right" />
+<img src="./assets/HeadIcon-mod.png" width="300" align="right" />
 <br/>
 <br/>
 <img src="./assets/AboutMe.png" width="500" />
@@ -14,7 +14,7 @@
 - Familiar with **Windows**, **Mac**, and **KaliLinux**
 
 - Languages: **Hindi**, **English**, **Telugu** , **Tamil**
-<img src="./assets/banner.png" width="300" align="right" />
+<img src="./assets/banner-mod.png" width="300" align="right" />
 <br/>
 <br/>
 <img src="./assets/Repo.png" width="500" />
