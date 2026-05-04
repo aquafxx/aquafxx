@@ -5,15 +5,15 @@
 <img src="./assets/AboutMe.png" width="500" />
 <br/>
   
-- Name: **Dev Bhakat** (You can call me **devrock** or **zenithsenpai**)
+- Name: **Ruthvesh Katasani** (You can call me **RisiPlayZz** or **Aqua**)
 
 - A **High School Student** from **India** 🇮🇳  
-- Age: **18**
+- Age: **17**
 
-- Good with **JavaScript**, **Node.js**, **Python**, **HTML**, **CSS**  
-- Familiar with **Windows**, **Debian**, and **Linux**
+- Good with **Editing**, **Node.js**, **Photography**, **HTML**, **CSS**  
+- Familiar with **Windows**, **Mac**, and **KaliLinux**
 
-- Languages: **Hindi**, **English**, **Bengali**
+- Languages: **Hindi**, **English**, **Telugu** , **Tamil**
 <img src="./assets/banner.png" width="300" align="right" />
 <br/>
 <br/>
@@ -21,16 +21,16 @@
 <br/>
 <br/>
   
-- 🧰 [***devrock07/rock-cloner***](https://github.com/devrock07/rock-cloner) <br/>
-  A **Discord Server Cloner** with fast setup and simple commands.
-- ⚙️ [***devrock07/RockV3-Selfbot***](https://github.com/devrock07/RockV3-Selfbot) <br/>
-  A **Discord Selfbot** designed for automation and customization.
+- 🧰 [***aquafxx/Aipersona***](https://github.com/aquafxx/Aipersona) <br/>
+  A **Character Impersonating AI** with fast setup and simple functions.
+- ⚙️ [***aquafxx/VulnerAI***](https://github.com/aquafxx/vulnerAI) <br/>
+  A **Vulnerability Testing** designed for automation and customization.
 <br/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/959733702609494076)](https://discord.com/users/959733702609494076)
+[![Discord Presence](https://lanyard.cnrad.dev/api/959733702609494076)](https://discord.com/users/1329052943084683338)
 
 ![](https://github-readme-stats.vercel.app/api?username=devrock07&theme=omni&hide_border=false&include_all_commits=true&count_private=false)
   
-<sub>*“Keep building. Keep breaking. That’s how you grow.” – Dev Bhakat*</sub>
+<sub>*“The More You Break, The More You Learn,” – Ruthvesh Katasani*</sub>
 
 </div>
